@@ -28,6 +28,7 @@ wget
 gnu-sed
 gpgme
 pinentry
+pinentry-mac
 readline
 sysdig
 xz
